@@ -14,3 +14,6 @@ st.write(f'Cor favorita:{e}')
 print(a)
 if a == True:
     st.balloons()
+
+
+  
